@@ -1,0 +1,172 @@
+
+<html>
+
+<head>
+    <title> html ca ban</title>
+    <meta charset="utf-8">
+
+   <style>
+  
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+      
+          
+            html{
+                font-family: 'lato', sans-serif;
+                
+            }
+            .claerfix::after{
+                display: table;
+                content: "";
+                clear: both;
+            }
+            .container{
+                width: 1140px;
+                margin: o auto;
+                background-color: rgb(110, 25, 160);
+                padding: 0 20px;
+            }
+            content{
+                
+                width: 75%;
+                float: left;
+                
+               
+
+            }
+            form{
+               
+                width: 25%;
+                float: left;
+
+            }
+            .date{
+                position: relative;
+                top: 20;
+                left: 40;
+                font-size: 40px;
+            }
+            h1, h2{
+                
+                font-size: 40px;
+            }
+            h1{
+                margin-left: 400px;
+                color: brown;
+                margin-bottom: 20px;
+        
+            }
+            h2{
+                color: chartreuse;
+                margin-bottom: 30px;
+            }
+            input, textarea{
+                display: block;
+            }
+            input{
+               width: 200px;
+               padding: 10px 20px;
+                margin: 20px;
+            }
+            textarea{
+                width: 30px;
+                padding: 20px;
+                margin-left: 20px;
+            }
+            .avatar_img{
+                border-radius: 50%;
+                width: 100px;
+                height: 100px;
+               
+            }
+</style>
+        
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+           <b><h1 class="game"> game la EZ</h1></b>
+            <div class="date">
+                <b><h6> &#128532 ngay 9 thang 9 nam 2022</h6></b>
+            <br>
+            </div>
+        
+                <label> <a href="http://"></a></label>
+            <h2> game la EZ</h2>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet n
+             isi hic quis exercitationem incidunt delectus?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. 
+             Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet
+             veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+            
+            </p>
+            <h3> game la EZ</h3>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet n
+             isi hic quis exercitationem incidunt delectus?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. 
+             Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet
+             veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est nulla dignissimos quibusdam libero facilis natus amet veniam sapiente atque modi. Officia illo quisquam amet nisi hic quis exercitationem incidunt delectus?
+            
+          
+         <br>
+            </p>
+            <img style="width: 500px;"
+                src="http://1.bp.blogspot.com/-P0rTEgTBCPI/UkVVBaAYekI/AAAAAAAACkA/NWLaNFaBfw0/s1600/hinh-anh-dep-anh+thien+nhien+dep-18.jpg"
+                alt="anh thui">
+            <!--in ra anh-->
+            <a
+                href="http://1.bp.blogspot.com/-P0rTEgTBCPI/UkVVBaAYekI/AAAAAAAACkA/NWLaNFaBfw0/s1600/hinh-anh-dep-anh+thien+nhien+dep-18.jpg">
+                link cua anh </a>
+             
+          
+        </div>
+       
+        <!--    <form>
+            <input type="text" placeholder="dien vao day ne"> 
+              <input type="submit" placeholder="gui">
+              <textarea cols="100" rows="10" placeholder="hello">  heloo</textarea>
+       </form>-->
+       <div class="clearfix"> </div> 
+        <div class="avatar">
+           
+            <img  class="avatar_img" src="https://1.bp.blogspot.com/-cW8PDL7l40U/Xxbk_KL9_7I/AAAAAAAAtig/-1pYlRQaOZEX7dAi8d3w56856-E40J7NQCLcBGAsYHQ/s1600/Avatar-con-trai%2B%252819%2529.jpg"
+                width="400px" height="400px">
+                <h4>
+                    ten: abc
+                </h4>
+        </div>
+        <div class="clearfix"></div> 
+        <div class="info">
+            <div>
+                sdt:01-0123-9123
+            </div>
+            <div>
+                dia chi:123/123 ....
+            </div>
+            <div>
+                email:html@gmail.com
+            </div>
+        </div>
+        </div>
+        
+    
+
+
+
+
+
+
+</body>
+
+</html>
